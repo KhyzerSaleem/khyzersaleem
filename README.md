@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full Stack Developer | 5+ Years of Experience | MERN Specialist</h3>
 
 <p align="center">
-  <img src="./Images/banner.gif" alt="Khizar Saleem Banner" />
+  <img src="./Images/banner.jpg" alt="Khizar Saleem Banner" />
 </p>
 
 ---
