@@ -1,91 +1,73 @@
 <h1 align="center">Hi 👋, I'm Khizar Saleem</h1>
-<h3 align="center">A Passionate Full Stack Developer | 5+ Years of Experience | MERN Specialist</h3>
+<h3 align="center">🚀 MERN Stack Developer | 5+ Years of Experience | Next.js Specialist</h3>
 
 <p align="center">
-  <img src="./Images/banner.jpg" alt="Khizar Saleem Banner" />
+  <img src="./Images/banner.jpg" alt="Khizar Saleem Banner" width="100%" style="max-height: 250px; object-fit: cover;" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 💼 Professional **MERN Stack Developer** specializing in **Next.js, React 19, Redux Toolkit, Tailwind CSS**
-- 🧠 Skilled in building scalable backend systems with **Node.js**, **Express**, **MongoDB**
-- 🛠 Worked with **international clients** delivering high-performance full-stack applications
-- 🌐 Experienced with **SEO, performance optimization, responsive design**
-- 🧳 5+ years of industry experience with real-world dashboard and SaaS applications
-- 🔭 Currently working on: `CR-Trans Dashboard` (Internal logistics & operations platform)
-
----
-
-### 💼 Notable Projects
-
-- 🔹 [Landscaping GTS](https://www.landscapinggts.com.au/)  
-  *A professional landscaping service platform for Australian clientele.*
-
-- 🔹 [MedRev MSO](https://medrevmso.com/)  
-  *A U.S.-based medical service operation platform focused on billing & management.*
-
-- 🔹 `CR-Trans Dashboard` (Private)  
-  *Fleet and transport management dashboard for logistics operations.*
-
-> 📁 *Project screenshots are available in the `Images/` folder.*
+- 👨‍💻 Full Stack Developer with a passion for building modern web apps
+- ⚙️ Expert in **Next.js**, **React 19**, **Redux Toolkit**, **Tailwind CSS**
+- 🧠 Skilled in **Node.js**, **Express.js**, and **MongoDB**
+- 🌐 Focused on performance, SEO, and scalable architecture
+- 🌏 Collaborated with international clients on large-scale production systems
+- 🛠️ Currently building: **CR-Trans Dashboard** *(Internal logistics platform)*
 
 ---
 
-### 🧰 Tech Stack
+## 💼 Featured Projects
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwind-css)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+### 🌿 [Landscaping GTS](https://www.landscapinggts.com.au/)
+*A modern landscaping platform built for Australian clients with responsive UI and booking flow.*
+
+### 🏥 [MedRev MSO](https://medrevmso.com/)
+*A full-service medical billing & management system designed for U.S. clinics.*
+
+### 🚚 CR-Trans Dashboard *(Private)*
+*A logistics and operations dashboard streamlining transport & scheduling workflows.*
+
+📸 *Project screenshots are in the `Images/` folder.*
 
 ---
 
-### 📊 GitHub Stats
+## 🧰 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,redux,figma,git" />
+</div>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khyzarsaleem&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khyzarsaleem&theme=radical" width="47%" />
-</p>
-
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/khyzersaleem/"  target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin" />
+  <a href="https://linkedin.com/in/khyzersaleem" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/khyzersaleem/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram" />
+  <a href="https://instagram.com/khyzersaleem" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://x.com/khyzersaleem" target="_blank">
-    <img src="https://img.shields.io/badge/-X-000000?style=flat&logo=twitter" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="mailto:khizarking704@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### ✨ Fun Stuff
+## ✨ Fun Facts
 
-> *"Code is like humor. When you have to explain it, it’s bad."*  
-> – Cory House
+> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
 
-- 🧠 Always learning new tech
-- ☕ Fueled by chai & clean code
-- ✨ I don’t just build apps — I build experiences.
+- 🧠 Always exploring new tech & frameworks
+- ⚡ Passionate about clean UI, performance, and developer experience
+- ☕ Runs on chai and clean architecture
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khyzarsaleem&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=khyzarsaleem&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
 </p>
