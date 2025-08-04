@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
 <h1 align="center">Hi 👋, I'm Khizar Saleem</h1>
 <h3 align="center">🚀 MERN Stack Developer | 5+ Years of Experience | Next.js Specialist</h3>
 
