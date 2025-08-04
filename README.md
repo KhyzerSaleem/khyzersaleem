@@ -61,16 +61,16 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/khyzersaleem" target="_blank">
+  <a href="https://www.linkedin.com/in/khyzersaleem/"  target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin" />
   </a>
-  <a href="https://instagram.com/khyzersaleem" target="_blank">
+  <a href="https://www.instagram.com/khyzersaleem/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram" />
   </a>
   <a href="https://x.com/khyzersaleem" target="_blank">
     <img src="https://img.shields.io/badge/-X-000000?style=flat&logo=twitter" />
   </a>
-  <a href="mailto:khyzersaleem@gmail.com" target="_blank">
+  <a href="mailto:khizarking704@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
