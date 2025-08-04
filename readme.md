@@ -15,7 +15,7 @@ const khizar = {
   experience: "5+ years building scalable web applications",
   focus: ["Performance Optimization", "Clean Architecture", "Developer Experience"],
   currentStack: ["Next.js 14", "React 19", "TypeScript", "TailwindCSS", "Node.js"],
-  databases: ["PostgreSQL", "MongoDB", "Firestore", "Supabase"],
+  databases: [ "MongoDB", "PostgreSQL", "Firebase", "Supabase"],
   cloud: ["AWS", "Firebase", "Vercel", "DigitalOcean"],
   philosophy: "Build solutions that scale both technically and organizationally"
 }
@@ -27,7 +27,7 @@ const khizar = {
 
 ### Frontend Mastery
 
-- **Frameworks**: Next.js 14, React 19 (Server Components, RSC), Gatsby
+- **Frameworks**: Next.js 15, React 19 (Server Components, RSC), Gatsby
 - **State Management**: Redux Toolkit, Zustand, React Query, Apollo Client
 - **Styling**: TailwindCSS, CSS Modules, Styled Components, Framer Motion
 - **Testing**: Jest, React Testing Library, Cypress
@@ -57,17 +57,17 @@ const khizar = {
 
 ## 🚀 Featured Projects
 
-### 🌿 [Landscaping GTS](https://www.landscapinggts.com.au/) (Next.js 14, TailwindCSS, MongoDB)
+### 🌿 [Landscaping GTS](https://www.landscapinggts.com.au/) (Next.js 15, TailwindCSS, MongoDB)
 
 - Built responsive UI with advanced booking flow and geolocation services
 - Implemented ISR for dynamic content with 95%+ Lighthouse scores
 - Reduced bundle size by 40% through code splitting and optimization
 
-### 🏥 [MedRev MSO](https://medrevmso.com/) (React 18, Node.js, PostgreSQL)
+### 🏥 [MedRev MSO](https://medrevmso.com/) (React 19, Node.js, SQL)
 
 - Developed HIPAA-compliant medical billing system with role-based access
 - Designed complex data visualization dashboards with Chart.js
-- Optimized PostgreSQL queries reducing report generation time by 70%
+- Optimized SQL queries reducing report generation time by 70%
 
 ### 🚚 CR-Trans Dashboard (Next.js, Firebase, Redux Toolkit)
 
@@ -97,11 +97,22 @@ graph TD
 
 ---
 
-## 📈 GitHub Stats
-
----
 
 ## 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/khyzersaleem" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/khyzersaleem" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://x.com/khyzersaleem" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:khizarking704@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
