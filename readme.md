@@ -100,17 +100,17 @@ graph TD
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/khyzersaleem" target="_blank">
-    <img src="Images/linkedin.png" alt="LinkedIn" height="40" />
+  <a href="https://linkedin.com/in/khyzersaleem" target="_blank" style="margin: 0 25px;">
+    <img src="Images/linkedin.png" alt="LinkedIn" width="50" height="50" />
   </a>
-  <a href="https://instagram.com/khyzersaleem" target="_blank">
-    <img src="Images/instagram.png" alt="LinkedIn" height="40" />
+  <a href="https://instagram.com/khyzersaleem" target="_blank" style="margin: 0 15px;">
+    <img src="Images/instagram.png" alt="Instagram" width="50" height="50" />
   </a>
-  <a href="https://x.com/khyzersaleem" target="_blank">
-    <img src="Images/twitter.png" alt="LinkedIn" height="40" />
+  <a href="https://x.com/khyzersaleem" target="_blank" style="margin: 0 15px;">
+    <img src="Images/twitter.png" alt="Twitter" width="50" height="50" />
   </a>
-  <a href="mailto:khizarking704@gmail.com" target="_blank">
-    <img src="Images/gmail.png" alt="LinkedIn" height="40" />
+  <a href="mailto:khizarking704@gmail.com" target="_blank" style="margin: 0 15px;">
+    <img src="Images/gmail.png" alt="Gmail" width="50" height="50" />
   </a>
 </p>
 
