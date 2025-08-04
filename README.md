@@ -69,7 +69,7 @@ const khizar = {
 - Designed complex data visualization dashboards with Chart.js
 - Optimized SQL queries reducing report generation time by 70%
 
-### 🚚 CR-Trans Dashboard (Next.js, Firebase, Redux Toolkit)
+### 🚚 CR-Trans Dashboard (Next.js, MongoDB, Redux Toolkit)
 
 - Created real-time logistics tracking system with Firebase Realtime Database
 - Implemented offline-first capabilities with Service Workers
