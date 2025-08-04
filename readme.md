@@ -2,7 +2,7 @@
 <h3 align="center">🚀 MERN Stack Developer | 5+ Years of Experience | Next.js Specialist</h3>
 
 <p align="center">
-  <img src="./Images/banner.jpg" alt="Khizar Saleem Banner" width="100%" style="max-height: 250px; object-fit: cover;" />
+  <img src="./Images/banner.jpg" alt="Khizar Saleem Banner" width="50%" style="max-height: 100px; object-fit: cover;" />
 </p>
 
 ---
