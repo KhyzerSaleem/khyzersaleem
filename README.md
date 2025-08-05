@@ -18,7 +18,7 @@ const khizar = {
   role: "Senior Full Stack Developer",
   experience: "5+ years building scalable web applications",
   focus: ["Performance Optimization", "Clean Architecture", "Developer Experience"],
-  currentStack: ["Next.js 14", "React 19", "TypeScript", "TailwindCSS", "Node.js"],
+  currentStack: ["Next.js 15", "React 19", "TypeScript", "TailwindCSS", "Node.js", "NEST.js"],
   databases: [ "MongoDB", "PostgreSQL", "Firebase", "Supabase"],
   cloud: ["AWS", "Firebase", "Vercel", "DigitalOcean"],
   philosophy: "Build solutions that scale both technically and organizationally"
