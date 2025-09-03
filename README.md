@@ -135,9 +135,9 @@ graph TD
 ## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/khyzersaleem/github-readme-stats">
+<!--   <a href="https://github.com/khyzersaleem/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=khyzersaleem&show_icons=true&theme=radical" alt="GitHub Stats" width="420" />
-  </a>
+  </a> -->
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/khyzersaleem/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khyzersaleem&layout=compact&theme=radical" alt="Top Languages" width="320" />
