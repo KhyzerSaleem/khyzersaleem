@@ -25,7 +25,12 @@ const khizar = {
 }
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://pk.linkedin.com/in/khyzersaleem)
+<p align="center">
+  <a href="https://pk.linkedin.com/in/khyzersaleem">
+    <img src="https://img.shields.io/badge/LinkedIn-Khyzer%20Saleem-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
+
 
               
 
