@@ -25,6 +25,10 @@ const khizar = {
 }
 ```
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="khyzersaleem" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/khyzersaleem?trk=profile-badge">Khizar Saleem</a></div>
+              
+
+
 <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
