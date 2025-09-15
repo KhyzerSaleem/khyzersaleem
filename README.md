@@ -3,7 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Khizar+Saleem!;" />
 </h1>
-<h3 align="center">🚀 MERN Stack Developer | 5+ Years of Experience | Next.js Specialist</h3>
+<h3 align="center">🚀 MERN Stack Developer | 3+ Years of Experience | Next.js Specialist</h3>
 
 <p align="center">
   <img src="./Images/banner.jpg" alt="Khizar Saleem Banner" width="50%" style="max-height: 100px; object-fit: cover;" />
