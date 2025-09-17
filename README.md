@@ -135,7 +135,7 @@ graph TD
   <a href="https://x.com/khyzersaleem" target="_blank" style="margin: 0 15px;">
     <img src="Images/twitter.png" alt="Twitter" width="50" height="50" />
   </a>
-  <a href="mailto:khizarking704@gmail.com" target="_blank" style="margin: 0 15px;">
+  <a href="mailto:khyzersaleem47@gmail.com" target="_blank" style="margin: 0 15px;">
     <img src="Images/gmail.png" alt="Gmail" width="50" height="50" />
   </a>
 </p>
